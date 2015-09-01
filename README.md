@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/picardy/angular-graphs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/picardy/angular-graphs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/picardy/angular-graphs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/picardy/angular-graphs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A directive for creating different types of graphs implemented in [D3](http://d3js.org/).
 
 ### License
